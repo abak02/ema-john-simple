@@ -1,0 +1,22 @@
+.Header img{
+    height: 80px;
+}
+.Header{
+    text-align: center;
+}
+.Header nav{
+    background-color: black;
+    line-height: 40px;
+    font-size: 20px;
+    
+}
+nav a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    letter-spacing: 2px;
+}
+nav a:hover{
+    background-color: gray;
+}
